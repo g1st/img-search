@@ -1,6 +1,6 @@
 # Image Search Abstraction Layer
 
-### Example search query::
+### Example search query:
 https://img1.herokuapp.com/api/imagesearch/funny%20cats
 
 ### Example search query with pagination:
